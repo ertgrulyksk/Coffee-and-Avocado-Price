@@ -1,2 +1,2 @@
-# Coffee-and-Avocado-Price
+# Coffee and Avocado Price
 
